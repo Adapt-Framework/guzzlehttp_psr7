@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <name>guzzlehttp_psr7</name>
+        <label>Guzzle PSR7</label>
+        <type>extension</type>
+        <version>1.3.1</version>
+        <namespace>\GuzzleHttp\Psr7</namespace>
+        <depends_on>
+            <bundle>
+                <name>adapt</name>
+                <version>2</version>
+            </bundle>
+            <bundle>
+                <name>psr7_http_message</name>
+                <version>?</version>
+            </bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
