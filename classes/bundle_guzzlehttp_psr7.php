@@ -1,6 +1,6 @@
 <?php
 
-namespace GuzzleHttp\Promise{
+namespace GuzzleHttp\Psr7{
     
     class bundle_guzzlehttp_psr7 extends \adapt\bundle{
         

@@ -12,8 +12,11 @@
                 <version>2</version>
             </bundle>
             <bundle>
-                <name>psr7_http_message</name>
-                <version>?</version>
+                <name>psr_http_message</name>
+                <version>1</version>
+            </bundle>
+            <bundle>
+                <name>vendor</name>
             </bundle>
         </depends_on>
     </bundle>
